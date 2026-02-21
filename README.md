@@ -6,6 +6,6 @@ Este repositorio contiene mi CV actualizado y algunos de mis proyectos más rele
 
 ## 📄 CV
 Puedes descargar mi CV aquí:
-[Descargar CV](Jose_Rocha_CV.pdf)
+[Descargar CV](CVJARM.pdf)
 
 
